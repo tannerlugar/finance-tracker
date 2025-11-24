@@ -13,3 +13,9 @@ my_expense = add_expense()
 
 print(f"Income: {my_income}")
 print(f"Expense: {my_expense}")
+
+with open("demofile.txt", "a") as f:
+    f.write(f"Income is {my_income}, Expenses are {my_expense}\n")
+
+with open("demofile.txt") as f:
+    print(f.read())

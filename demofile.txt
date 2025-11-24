@@ -1,0 +1,6 @@
+Income is 5436, Expenses are 78659867Income is 23132, Expenses are 123123Income is 123213, Expenses are 123123Income is 213, Expenses are 123
+Income is 2312, Expenses are 123
+Income is 123[A, Expenses are 5325626
+Income is 5436, Expenses are 7657756
+Income is 456456, Expenses are 234345
+Income is 456456, Expenses are 098098-0
